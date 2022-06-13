@@ -22,4 +22,3 @@
 * __git checkout -b branch_name__  –  создание ветки и переход  в нее  
 
 
-vvv
