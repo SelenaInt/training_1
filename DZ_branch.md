@@ -11,6 +11,8 @@
 
 * __git commit -m “message”__ – создание коммита.  
 
+* __git commit -a -m “текст_коммита”__  –  создание изменения и его коммит  
+
 * __git log__ – вывод на экран истории всех коммитов с их хеш-кодами  
 
 * __git branch__ – посмотреть список веток в репозитории  
@@ -26,7 +28,7 @@
 
 ___А также необходимо ознакомиться с языком Markdown___
 
-Справочник по Markdown от Microsoft:
+Справочник по Markdown от Microsoft:  
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 ✦	# Заголовок – выделение заголовков. Количество символов “#” задаёт уровень заголовка  (поддерживается 6 уровней).  
@@ -45,3 +47,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 ✦	1, 2, 3 … – нумерованные списки  
 
+.....
