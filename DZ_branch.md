@@ -46,5 +46,3 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ✦	* Строка – ненумерованные списки, символ “*” в начале строки  
 
 ✦	1, 2, 3 … – нумерованные списки  
-
-
